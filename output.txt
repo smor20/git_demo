@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 new line added by sujit.
+=======
+new line added
+
+>>>>>>> 5310847e58b037e3a6315c715b97a96dbec70e80
 **Revised Overview:**
 
 Artificial intelligence is reshaping health care by boosting diagnostic precision, streamlining treatment planning, and trimming operational expenses.  
@@ -14,3 +19,5 @@ Artificial intelligence is reshaping health care by boosting diagnostic precisio
 - **Automation of administrative tasks:** Intelligent workflow tools automate coding, billing, scheduling, and documentation, cutting paperwork and freeing staff to concentrate on direct patient care.  
 
 **Bottom line:** By accelerating diagnostics, personalizing therapy, and optimizing both clinical and back‑office operations, AI drives better outcomes, higher safety standards, and a more patient‑centered health‑care system.
+
+
